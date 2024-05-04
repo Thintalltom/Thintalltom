@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Thintalltom
-- 👀 I’m interested in learning all kinds of languages pertaining to front-end web dev
-- 🌱 I’m currently learning HTML, CSS AND JS
+- 🌱 I’m currently learning React-Native and Fullstack Development
 - 💞️ I’m looking to collaborate on any project that will provide me with new insights  on frontend  web dev
 - 📫 How to reach me adeyanjutomide@gmail.com
+- This is a link to my portfolio: https://tomide-portfolio.vercel.app/
 
 <!---
 Thintalltom/Thintalltom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
