@@ -2,7 +2,11 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Tomide%20Adeyanju&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Frontend%20%26%20Accessibility%20Engineer&descAlignY=58&descSize=17" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Tomide%20Adeyanju&fontSize=42&fontColor=FFFFFF&animation=fadeIn"
+    width="100%"
+    alt="Tomide Adeyanju - Frontend and Accessibility Engineer"
+  />
 </p>
 
 <h3 align="center">
